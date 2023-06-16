@@ -39,21 +39,6 @@ CREATE TABLE IF NOT EXISTS `userdetails` (
 -- Dumping data for table `userdetails`
 --
 
-INSERT INTO `userdetails` (`username`, `password`) VALUES
-('Rohit', 'aaa'),
-('null', 'null'),
-('Rohit1', 'ojr'),
-('Srinidhi', '1234'),
-('Prasad', 'her'),
-('Aftab', 'hferf'),
-('Nas', 'Nas'),
-('Priyank', 'hfiwf'),
-('Rani', '123'),
-('Ronit', '123'),
-('gerg', 'reg'),
-('AatmaRam Bhide', 'ih;ogrfger'),
-('Ghanshyan', 'lfwfrg'),
-('Rohit2', '123');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
